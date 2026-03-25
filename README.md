@@ -27,7 +27,7 @@
 
     h1 {
       margin-top: 15%;
-      font-size: 48px;
+      font-size: 30px;
       animation: glow 2s infinite alternate;
     }
 
